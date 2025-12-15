@@ -1,0 +1,72 @@
+{
+    "menu": {
+        "item1":{
+            "title": "Início",
+            "route": "#home"
+        },
+        "item2":{
+            "title": "Portfólio",
+            "route": "#portfolio"
+        },
+        "item3":{
+            "title": "Sobre",
+            "route": "#about"
+        },
+        "item4":{
+            "title": "Competências",
+            "route": "#competences"
+        },
+        "item5":{
+            "title": "Contato",
+            "route": "#contact"
+        }
+    },
+    "hero": {
+        "cta": "Sobre",
+        "title": "Oi, sou Beatriz Nóbrega",
+        "subtitle": "Analista de Dados & Criadora de Insights",
+        "text": "Minha missão é tornar idéias complexas em soluções digitais intuitivas e atraentes.",
+        "button": "Minhas Competências"
+    },
+    "portfolio": {
+        "title": "Últimos Projetos",
+        "button": "Veja Mais"
+    },
+    "about": {
+        "title": "Sobre",
+        "subtitle": "Paixão, Criatividade, e Código",
+        "tools": "Proficiência nas seguintes ferramentas e linguagens...",
+        "cta_1": "Contato",
+        "cta_2": "LinkedIn",
+        "cta_2_link": "https://www.linkedin.com/in/beatriz-n%C3%B3brega-440a2915b/"
+    },
+    "services": {
+        "title": "Competências",
+        "subtitle": "Transformo dados em conhecimento, impulsionando decisões e resultados.",
+        "text": "Tenho habilidades em análise de dados, criação de dashboards e geração de insights estratégicos a partir de informações complexas.",
+        "service_1": 
+        {
+            "icon": "ana-icon:graphic-design",
+            "title": "Análise de Dados",
+            "text": "Manipulação de dados e Análise descritiva."   
+        },
+        "service_2": 
+        {
+            "icon": "ana-icon:web-design",
+            "title": "Visualização de Dados & Soluções",
+            "text": "KPIs e Dashboards interativos"   
+        },
+        "service_3": 
+        {
+            "icon": "ana-icon:mobile-apps",
+            "title": "Machine Learning & IA",
+            "text": "Desenvolvimento de modelos preditivos e soluções com IA."   
+        }
+    },
+    "contact": {
+        "title": "Vamos fazer a mágica acontecer!",
+        "subtitle": "Desde o conceito inicial até o produto final, busco a excelência em cada projeto. Vamos criar algo incrível juntos. Entre em contato e vamos dar início ao seu projeto agora mesmo!",
+        "cta": "Entre em contato"
+    }
+
+}

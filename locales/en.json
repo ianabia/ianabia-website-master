@@ -1,0 +1,72 @@
+{
+    "menu": {
+        "item1":{
+            "title": "Home",
+            "route": "#home"
+        },
+        "item2":{
+            "title": "Portfolio",
+            "route": "#portfolio"
+        },
+        "item3":{
+            "title": "About",
+            "route": "#about"
+        },
+        "item4":{
+            "title": "Competences",
+            "route": "#competences"
+        },
+        "item5":{
+            "title": "Contact",
+            "route": "#contact"
+        }
+    },
+    "hero": {
+        "cta": "About me",
+        "title": "Hey, I'm Beatriz Nóbrega",
+        "subtitle": "Data Analyst & Insight Creator",
+        "text": "My mission is to turn complex ideas into simple, beautiful digital solutions.",
+        "button": "My Competences"
+    },
+    "portfolio": {
+        "title": "Latest Projects",
+        "button": "See More"
+    },
+
+    "about": {
+        "title": "About",
+        "subtitle": "Passion, Creativity, and Code",
+        "tools": "Proficiency on the following tools and stacks...",
+        "cta_1": "Contact",
+        "cta_2": "LinkedIn",
+        "cta_2_link": "https://www.linkedin.com/in/beatriz-n%C3%B3brega-440a2915b/"
+    },
+    "services": {
+        "title": "Competences",
+        "subtitle": "I transform data into knowledge, driving decisions and results.",
+        "text": "I have skills in data analysis, dashboard creation, and generating strategic insights from complex information.",
+        "service_1": 
+        {
+            "icon": "ana-icon:graphic-design",
+            "title": "Data Analysis",
+            "text": "Data manipulation and descriptive analysis."
+        },
+        "service_2": 
+        {
+            "icon": "ana-icon:web-design",
+            "title": "Data Visualization & Solutions",
+            "text": "KPIs and interactive dashboards."   
+        },
+        "service_3": 
+        {
+            "icon": "ana-icon:mobile-apps",
+            "title": "Machine Learning & AI",
+            "text": "Development of predictive models and AI-powered solutions."   
+        }
+    },
+    "contact": {
+        "title": "Let's make magic happen!",
+        "subtitle": "From initial concept to final product, I strive for excellence in every project. Let's make something great together. Hit me up and let's kick off your project now!",
+        "cta": "Get in Touch"
+    }
+}
