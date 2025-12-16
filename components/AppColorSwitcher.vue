@@ -32,7 +32,7 @@ onMounted(() => {
         icon.value = 'ana-icon:light-theme'
         selectThemeTitle.value = 'Light Mode'
     }else{
-        icon.value = 'ana-icon:dark-theme'
+        icon.value = 'ana-icon:dark-theme-logo'
         selectThemeTitle.value = 'Dark Mode'
     }
 })
@@ -43,7 +43,7 @@ function toggleDarkMode(theme) {
         icon.value = 'ana-icon:light-theme'
         selectThemeTitle.value = 'Light Mode'
     }else{
-        icon.value = 'ana-icon:dark-theme'
+        icon.value = 'ana-icon:dark-theme-logo'
         selectThemeTitle.value = 'Dark Mode'
     }
 }

@@ -25,14 +25,14 @@
 
                         <strong class="about__section__container__columns__avatar__image__areas logic">
                             <span>
-                                <AppIcon class="smooth-move" IconName="ana-icon:logic-side" />
-                                {{ locale == 'en' ? 'Logic' : 'Lógica' }}
+                                <AppIcon class="smooth-move" IconName="ana-icon:" />
+                                {{ locale == 'en' ? '' : '' }}
                             </span>
                         </strong>
                         <strong class="about__section__container__columns__avatar__image__areas creativity">
                             <span>
-                                {{ locale == 'en' ? 'Creativity' : 'Criatividade' }}
-                                <AppIcon class="slide-top" IconName="ana-icon:creative-side" />
+                                {{ locale == 'en' ? '' : '' }}
+                                <AppIcon class="slide-top" IconName="ana-icon:" />
                             </span>
                         </strong>
                     </figure>
@@ -44,40 +44,37 @@
 
                 <div v-if="locale == 'en'" class="about__section__container__columns__text">
                     <p>
-                        Hi, I’m Cristopher—a seasoned <strong>Designer and Frontend Engineer</strong> from Brazil 🇧🇷
-                        with <strong>over 12 years of experience</strong>. With a strong focus on UI/UX development, I
-                        blend design and technology to craft cohesive and impactful projects that help businesses excel
-                        in the digital world.
+                        Hi, I’m Ana Beatriz—a seasoned <strong>Information Security professional transitioning into the Data field</strong>
+                        from Brazil 🇧🇷. with With a solid background in technology and a strong focus on data analysis and organization, I am building a new
+                        career path dedicated to transforming data into strategic insights.
                     </p>
                     <br />
                     <p>
-                        I specialize in designing and developing beautiful, user-friendly, and responsive websites and
-                        applications. My keen eye for detail and commitment to innovation allow me to transform ideas
-                        into intuitive and engaging digital experiences.
+                        I work with <strong>Design, Python (NumPy and Pandas), SQL, and Power BI</strong>, combining logical thinking,
+                        analytical skills, and creativity to design efficient, well-structured, and visually impactful data-driven
+                        solutions.
                     </p>
                     <br />
                     <p>
-                        By combining creativity with technical expertise, I deliver solutions that not only captivate
-                        users but also drive results. Let’s collaborate to create something exceptional!
+                        By blending technical expertise with a data-oriented mindset, I deliver solutions that support informed
+                        decision-making and generate real business value.
                     </p>
                 </div>
                 <div v-else class="about__section__container__columns__text">
                     <p>
-                        Olá, eu sou o Cristopher um <strong>Designer e Engenheiro Frontend</strong> experiente com
-                        <strong>mais de 12 anos de experiência</strong>. Com um forte foco no desenvolvimento voltado
-                        para <strong>UI/UX</strong>, eu combino design e tecnologia para criar projetos coesos e
-                        impactantes que ajudam empresas a se destacarem no mundo digital.
+                        Olá, eu sou a Ana Beatriz profissional da <strong>área de Segurança da Informação em transição para o universo de Dados</strong>,
+                        do Brasil 🇧🇷. Com uma base sólida em tecnologia e foco em análise e organização da informação, estou construindo uma nova
+                        trajetória voltada à transformação de dados em insights estratégicos.
                     </p>
                     <br />
                     <p>
-                        Sou especializado no design e desenvolvimento de sites e aplicações bonitas, intuitivas e
-                        responsivas. Meu olhar atento aos detalhes e comprometimento com a inovação me permitem
-                        transformar ideias em experiências digitais intuitivas e envolventes.
+                        Atuo com <strong>Design, Python (NumPy e Pandas), SQL e Power BI</strong>, combinando raciocínio lógico,
+                        visão analítica e criatividade para desenvolver soluções eficientes, bem estruturadas e visualmente impactantes.
                     </p>
                     <br />
                     <p>
-                        Combinando criatividade e expertise técnica, entrego soluções que não apenas cativam os
-                        usuários, mas também geram resultados. Vamos colaborar e criar algo excepcional juntos!
+                        Ao unir conhecimento técnico e uma mentalidade orientada a dados, entrego soluções que apoiam a tomada de decisões
+                        e geram valor real para os negócios.
                     </p>
                 </div>
 
@@ -119,20 +116,17 @@ const stackLogos = ref([
     {logo: 'devicon:typescript', name: 'Typescript'},
     {logo: 'devicon:html5', name: 'HTML 5'},
     {logo: 'devicon:css3', name: 'CSS 3'},
-    {logo: 'devicon:sass', name: 'Sass'},
-    {logo: 'devicon:bootstrap', name: 'Bootstrap'},
-    {logo: 'devicon:jquery', name: 'JQuery'},
+    {logo: 'devicon:python', name: 'Python'},
+    {logo: 'devicon:mysql', name: 'MySQL'},
+    {logo: 'devicon:postgresql', name: 'PostgreSQL'},
     {logo: 'skill-icons:wordpress', name: 'Wordpress'},
-    {logo: 'logos:shopify', name: 'Shopify'},
-    {logo: 'devicon:vuejs', name: 'Vue.JS'},
-    {logo: 'devicon:vuetify', name: 'Vuetify'},
-    {logo: 'logos:nuxt-icon', name: 'Nuxt.JS'},
-    {logo: 'devicon:react', name: 'React.JS'},
-    {logo: 'devicon:nextjs', name: 'Next.JS'},
-    {logo: 'devicon:tailwindcss', name: 'Tailwind CSS'},
-    {logo: 'devicon:flutter', name: 'Flutter'},
+    {logo: 'devicon:docker', name: 'Docker'},
+    {logo: 'devicon:azure', name: 'Azure'},
+    {logo: 'skill-icons:django', name: 'Django'},
+    {logo: 'skill-icons:mongodb', name: 'MongoDB'},
+    {logo: 'devicon:linux', name: 'Linux'},
+    {logo: 'devicon:debian', name: 'Debian'},
     {logo: 'logos:visual-studio-code', name: 'Visual Studio Code'},
-    {logo: 'devicon:bitbucket', name: 'Bitbucket'},
     {logo: 'devicon:github', name: 'GitHub'},
     {logo: 'devicon:gitlab', name: 'GitLab'}
     // {logo: 'logos:blender', name: 'Blender'},
