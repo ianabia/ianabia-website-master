@@ -3,7 +3,7 @@
         <div class="error__page__container container">
             <!-- <NuxtImg 
                 alt="Beatriz Nóbrega" 
-                src="/images/cristoon.svg"
+                src="/images/anatoon.svg"
                 width="120px"
                 height="166px"
                 format="webp"

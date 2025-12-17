@@ -2,7 +2,7 @@
     <footer class="footer section">
         <div class="footer__copyright container">
             <p>
-                <AppIcon IconName="ana-icon:cristoon" />
+                <AppIcon IconName="ana-icon:anatoon" />
                 {{ locale == 'en' ? 'Proudly designed and developed by' : 'Orgulhosamente criado e desenvolvido por' }}
                 <NuxtLink aria-label="About" to="/#about">Beatriz Nóbrega</NuxtLink>
             </p>

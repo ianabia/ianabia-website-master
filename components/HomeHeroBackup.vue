@@ -25,7 +25,7 @@
                     <figure class="hero__section__container__presentation__button__avatar">
                         <NuxtImg 
                             alt="Beatriz Nóbrega"
-                            src="/images/cristoon.svg"
+                            src="/images/anatoon.svg"
                             width="60px"
                             height="84px"
                             format="webp"
