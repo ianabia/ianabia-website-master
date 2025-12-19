@@ -42,6 +42,26 @@ const portfolio = {
             ],
             live_url: ''
         },
+        {
+            id: 3,
+            image: '/images/portfolio/profit_cover.png',
+            gallery: [
+                { image: '/images/portfolio/profit/profit.png', title: 'System profit' },
+            ],
+            name: 'Savory Snacks Sales Management System',
+            client: 'profit',
+            description: '<p>The Profit System is a sales management solution developed to computerize the company’s sales process. Its objective is to ensure greater reliability of information by centralizing and organizing sales data, as well as to increase efficiency and effectiveness in the execution of the company’s core activities. Focused on the management of savory snack sales, the system supports operational control and contributes to better business organization, representing the perfect recipe for the success and growth of the company.</p>',
+            stacks: [
+                { logo: 'skill-icons:illustrator', name: 'Adobe Illustrator' },
+                { logo: 'skill-icons:javascript', name: 'JavaScript' },
+                { logo: 'devicon:html5', name: 'HTML 5' },
+                { logo: 'devicon:css3', name: 'CSS 3' },
+            ],
+            tags: [
+                'System', 'Sales', 'Website'
+            ],
+            live_url: ''
+        },
     ]
     ,
     
@@ -84,6 +104,26 @@ const portfolio = {
             ],
             tags: [
                 'Dashboard', 'Visualização de Dados', 'Análise Exploratória de Dados'
+            ],
+            live_url: ''
+        },
+               {
+            id: 3,
+            image: '/images/portfolio/profit_cover.png',
+            gallery: [
+                { image: '/images/portfolio/profit/profit.png', title: 'System profit' },
+            ],
+            name: 'Sistema de Gerenciamento de Vendas de Salgados',
+            client: 'profit',
+            description: '<p>O Sistema Profit é uma solução de gerenciamento de vendas desenvolvida para informatizar o processo de vendas da empresa. Seu objetivo é garantir maior confiabilidade das informações por meio da centralização e organização dos dados de vendas, além de aumentar a eficiência e a eficácia na execução das atividades principais do negócio. Voltado para o gerenciamento de vendas de salgados, o sistema apoia o controle operacional e contribui para uma melhor organização empresarial, representando a receita perfeita para o sucesso e o crescimento da empresa.</p>',
+            stacks: [
+                { logo: 'skill-icons:illustrator', name: 'Adobe Illustrator' },
+                { logo: 'skill-icons:javascript', name: 'JavaScript' },
+                { logo: 'devicon:html5', name: 'HTML 5' },
+                { logo: 'devicon:css3', name: 'CSS 3' },
+            ],
+            tags: [
+                'Sistema', 'Vendas', 'Website'
             ],
             live_url: ''
         },
