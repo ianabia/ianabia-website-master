@@ -33,7 +33,7 @@
                 <!-- <li class="contact__cta__social__item">
                     <NuxtLink aria-label="Email" to="mailto:beatriznobrega34@outlook.com" target="_new">
                         <AppIcon IconName="bxl:whatsapp" /> <span
-                            class="visually-hidden">hello@cristophermartins.com</span>
+                            class="visually-hidden">beatriznobrega34@outlook.com</span>
                     </NuxtLink>
                 </li> -->
 
