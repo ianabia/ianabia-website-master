@@ -142,8 +142,8 @@ const heroHome = reactive({
                         bottom: -100%;
                         transition: $transition_default;
                         background: linear-gradient(0deg,
-                                rgba(#8AED13, 0.8) 12%,
-                                rgba(#8AED13, 0) 100%);
+                                rgba(#ff0084, 0.8) 12%,
+                                rgba(#ff0084, 0) 100%);
                     }
     
                     &:hover {
