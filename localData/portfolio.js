@@ -62,6 +62,25 @@ const portfolio = {
             ],
             live_url: ''
         },
+        {
+            id: 4,
+            image: '/images/portfolio/lily58_cover.png',
+            gallery: [
+                { image: '/images/portfolio/lily58/lily58keyboard.png', title: 'Keyboard Project' },
+            ],
+            name: 'Lily58 Pro — Custom Split Mechanical Keyboard Project',
+            client: 'Lily 58 Pro',
+            description: '<p>The Lily58 Pro is a custom split mechanical keyboard project designed to enhance ergonomics, productivity, and typing comfort. Built with a minimalist and modular approach, the keyboard features a split layout that promotes a more natural hand position, helping to reduce strain during long periods of use. This project involves the complete assembly, customization, and configuration of the Lily58 Pro, including key mapping, firmware customization, and layout optimization to support the user’s workflow and efficiency needs. The current build includes a <strong>neon green ABS 3D-printed case</strong>, <strong>purple PBT Vaporwave keycaps</strong>, <strong>Akko Blue Cream switches</strong>, and <strong>DIY coiled cables (split and USB-C)</strong>. The keyboard is <strong>fully assembled and operational in its new case</strong>, representing a tailored solution for users seeking performance, comfort, and a high level of customization in daily computer use.</p>',
+            stacks: [
+                { logo: 'lineicons:github', name: 'GitHub' },
+                { logo: 'devicon:arduino-wordmark', name: 'Arduino' },
+                { logo: 'ix:configuration', name: 'Configuration' },
+            ],
+            tags: [
+                'Keyboard', 'Custom', 'Lily58'
+            ],
+            live_url: ''
+        },
     ]
     ,
     
@@ -70,9 +89,9 @@ const portfolio = {
             id: 1,
             image: '/images/portfolio/hanggame_cover.png',
             gallery: [
-                { image: '/images/portfolio/hanggame/home.png', title: 'Homepage Game' },
-                { image: '/images/portfolio/hanggame/action_game.png', title: 'Game Action' },
-                { image: '/images/portfolio/hanggame/theme_game.png', title: 'Themes Game' },
+                { image: '/images/portfolio/hanggame/home.png', title: 'Página inicial do Jogo' },
+                { image: '/images/portfolio/hanggame/action_game.png', title: 'Jogo' },
+                { image: '/images/portfolio/hanggame/theme_game.png', title: 'Temas do Jogo' },
             ],
             name: 'Jogo web HangGame, um jogo interativo no estilo forca focado em entretenimento e experiência do usuário.',
             client: 'HangGame',
@@ -111,7 +130,7 @@ const portfolio = {
             id: 3,
             image: '/images/portfolio/profit_cover.png',
             gallery: [
-                { image: '/images/portfolio/profit/profit.png', title: 'System profit' },
+                { image: '/images/portfolio/profit/profit.png', title: 'Sistema profit' },
             ],
             name: 'Sistema de Gerenciamento de Vendas de Salgados',
             client: 'profit',
@@ -124,6 +143,25 @@ const portfolio = {
             ],
             tags: [
                 'Sistema', 'Vendas', 'Website'
+            ],
+            live_url: ''
+        },
+                {
+            id: 4,
+            image: '/images/portfolio/lily58_cover.png',
+            gallery: [
+                { image: '/images/portfolio/lily58/lily58keyboard.png', title: 'Projeto Teclado' },
+            ],
+            name: 'Lily58 Pro — Projeto de Teclado Mecânico Split Customizado',
+            client: 'Lily 58 Pro',
+            description: '<p>O Lily58 Pro é um projeto de teclado mecânico customizado e dividido (split), desenvolvido para melhorar a ergonomia, a produtividade e o conforto durante a digitação. Construído com uma abordagem minimalista e modular, o teclado possui um layout dividido que favorece uma posição mais natural das mãos, ajudando a reduzir o esforço durante longos períodos de uso. Este projeto envolve a montagem, customização e configuração completa do Lily58 Pro, incluindo mapeamento de teclas, personalização de firmware e otimização do layout para atender às necessidades de fluxo de trabalho e eficiência do usuário. A versão atual conta com <strong>case impressa em ABS verde neon</strong>, <strong>keycaps PBT Vaporwave roxo</strong>, <strong>switches Akko Blue Cream</strong> e <strong>cabos coiled DIY (split e USB-C)</strong>. O teclado encontra-se <strong>totalmente montado e funcional na nova case</strong>, representando uma solução personalizada para quem busca desempenho, conforto e alto nível de customização no uso diário do computador.</p>',
+            stacks: [
+                { logo: 'lineicons:github', name: 'GitHub' },
+                { logo: 'devicon:arduino-wordmark', name: 'Arduino' },
+                { logo: 'ix:configuration', name: 'Configuração' },
+            ],
+            tags: [
+                'Teclado', 'Customizado', 'Lily58'
             ],
             live_url: ''
         },
