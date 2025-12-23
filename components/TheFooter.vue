@@ -7,7 +7,7 @@
                 <NuxtLink aria-label="About" to="/#about">Beatriz Nóbrega</NuxtLink>
             </p>
             <p>
-                © {{ currentYear }} ianabia.com
+                © {{ currentYear }} ianabia.dev
             </p>
         </div>
     </footer>
