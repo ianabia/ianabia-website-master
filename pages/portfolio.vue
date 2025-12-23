@@ -6,7 +6,7 @@
                     Portfolio
                 </h1>
                 <p class="hero__section__container__subtitle ">
-                    My portfolio showcases a range of projects that highlight my commitment to quality and user-centric design.
+                    My portfolio includes development and data projects that showcase my skills in building applications and working with data to solve real-world problems.
                 </p>
             </div>
             <div v-else class="hero__section__container container">
@@ -14,7 +14,7 @@
                     Portifólio
                 </h1>
                 <p class="hero__section__container__subtitle ">
-                    Meu portfólio exibe uma variedade de projetos que destacam meu compromisso com a qualidade e o design centrado no usuário.
+                    Meu portfólio inclui projetos de desenvolvimento e dados que demonstram minhas habilidades na construção de aplicações e no uso de dados para resolver problemas do mundo real.
                 </p>
             </div>
         </section>
