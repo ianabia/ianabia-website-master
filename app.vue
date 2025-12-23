@@ -8,8 +8,8 @@
 import { useSeoMeta } from '#imports';
 
 useSeoMeta({
-    title: 'Beatriz Nóbrega - Data Scientist',
-    ogTitle: 'Beatriz Nóbrega - Data Scientist',
+    title: 'Beatriz Nóbrega - Data Analyst',
+    ogTitle: 'Beatriz Nóbrega - Data Analyst',
     description:
         "As a seasoned designer and frontend developer with over a decade of experience in the technology sector, I am dedicated to consistently delivering excellence to my clients. On my website, you will discover a portfolio showcasing projects I've had the privilege of working on, as well as an overview of the technology services I offer.",
     ogDescription:
