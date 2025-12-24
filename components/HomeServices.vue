@@ -66,7 +66,7 @@ let services = reactive({
             icon: 'services.service_1.icon',
             description: 'services.service_1.text',
             image: 'ana-icon:tablet',
-            tags: ['Dataa Science', 'Data Analysis', 'Data Insights', 'Python', 'SQL']
+            tags: ['Data Science', 'Data Analysis', 'Data Insights', 'Python', 'SQL']
         },
         {
             title: 'services.service_2.title',
