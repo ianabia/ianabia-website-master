@@ -73,7 +73,7 @@ let services = reactive({
             icon: 'services.service_2.icon',
             description: 'services.service_2.text',
             image: 'ana-icon:desktop',
-            tags: ['Dashboards', 'Data Visualization', 'Dats Storytelling', 'Business Intelligence', 'Power BI', 'Techniques Dashboard UI/UX']
+            tags: ['Dashboards', 'Data Visualization', 'Data Storytelling', 'Business Intelligence', 'Power BI', 'Techniques Dashboard UI/UX']
         },
         {
             title: 'services.service_3.title',
